@@ -1,6 +1,10 @@
 body {
   --webkit-font-smoothing: none;
-  background: black;
+  background: url(https://i.postimg.cc/Pf0LRGm5/kittytile.jpg);
   display: grid;
   place-content: center;
+}
+
+.popup {
+
 }
