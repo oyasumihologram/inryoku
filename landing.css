@@ -2,4 +2,5 @@ body {
   --webkit-font-smoothing: none;
   background: black;
   display: grid;
+  place-content: center;
 }
